@@ -1,4 +1,4 @@
-## sortgameboy.py - GBC Organizer
+# sortgameboy.py - GBC Organizer
 This script allows users to manage their collection of GBC games. It searches through a specified source directory for GBC game files and allows the user to selectively copy them to a destination directory. This tool is especially useful for organizing and archiving Gameboy Color games based on specific search criteria.
 
 ## Features
@@ -21,7 +21,7 @@ This script allows users to manage their collection of GBC games. It searches th
 To exit the program, simply enter `0` when prompted to enter a game name.
 
 
-## sortphotos.py - Media File Organizer
+# sortphotos.py - Media File Organizer
 This Python script is designed to help organize media files (images and videos) by automatically sorting them into directories based on the date the media was created or taken. It leverages EXIF data for images and file creation dates for videos. The script also provides functionalities to delete specific file types (JSON) and allows user interaction for selective processing.
 
 ## Features
